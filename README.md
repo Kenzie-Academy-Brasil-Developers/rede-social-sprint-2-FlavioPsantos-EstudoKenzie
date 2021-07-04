@@ -24,7 +24,7 @@ _Utilize fotos de seu gosto para montar a galeria_
 
 ### Como deve ficar:
 
-![Exemplo Box](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint2/entrega-Estilizar-um-Layout-de-uma-plataforma-de-streaming/rating-stylize-extra-social-network.png)
+![Exemplo Box](https://files-kenzie-academy-brasil.s3padding-bottom: 2rem;.amazonaws.com/q1/sprint2/entrega-Estilizar-um-Layout-de-uma-plataforma-de-streaming/rating-stylize-extra-social-network.png)padding-bottom: 2rem;
 
 ### Envio
 
